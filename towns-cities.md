@@ -22,17 +22,21 @@ In the course of my research, two – related – case studies were created to m
 
 For this experiment – besides the principles of the Miskolc Workshop – the main inspirations were the simulation presented in Alexander's book [A Vision of a Living World](http://www.natureoforder.com/summarybk3.htm) (p. 360), and Hillier and Hanson's ideas about how a spatial structure can be created without agency ([The Social Logic of Space](https://www.cambridge.org/core/books/social-logic-of-space/6B0A078C79A74F0CC615ACD8B250A985), p. 36).
 
-![Five increments of organic growth, modelled using Simulated Morphogenesis](generic-inc-1-5.gif)
+![Five increments of organic growth, modelled using Simulated Morphogenesis](generic-inc-1-5.gif)  
+*Five increments of organic growth, modelled using Simulated Morphogenesis*
 
-![Nine variations of the fifth increment of growth](generic-inc-5-versions.gif)
+![Nine variations of the fifth increment of growth](generic-inc-5-versions.gif)  
+*Nine variations of the fifth increment of growth*
 
 # Case study 2: validation of the city-growing algorithm
 
 This case study attempts to adapt the algorithm to a specific location. It is important to emphasize that the result is not a master plan, but rather an experiment that can serve as a basis for a preliminary master plan. This location is a vacant, underused, undeveloped hilltop (an urban void) near to the city centre of Miskolc. The area is surrounded by the city on three sides. The lack of roads and buildings in this area has a negative effect on the spatial integration of the surrounding neighborhoods, and this can also be seen in the presence of nearby social segregates. In the case study, using the end points of the surrounding streets as entry points, an attempt is made to simulate what it would be like if the given area was organically settled on the model of the generic experiment.
 
-![The five increment of the simulated organic growth](hangmans-hill-plan.gif)
+![The five increment of the simulated organic growth](hangmans-hill-plan.gif)  
+*The five increment of the simulated organic growth*
 
-![The five increment of the simulated organic growth, 3D view](hangmans-hill-view.gif)
+![The five increment of the simulated organic growth, 3D view](hangmans-hill-view.gif)  
+*The five increment of the simulated organic growth, 3D view*
 
 # Related article
 

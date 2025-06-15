@@ -25,7 +25,8 @@ If the input parameters for creating a generative algorithm are extracted from t
 
 The concept of semilattice was introduced to the field of architecture in the context of natural cities by Christopher Alexander in 1965 in his seminal work [A City is Not a Tree](https://bp.ntu.edu.tw/001/Upload/1352/ckfile/176357fb-2068-4e40-8c50-593780261ce7.pdf). In this work, the author demonstrates the distinction between artificial and natural cities through a simple mathematical model. The mathematical model of artificial cities is a tree structure, where each element has one and only one parent. In contrast, the mathematical model of natural cities is a semilattice, where an element can be associated with multiple parents, resulting in a much more complex system of relationships, allowing for overlaps and a significantly greater number of possible variations.
 
-![Tree and semilattice, based on Alexander. Source: A City is Not a Tree, p 6., 7.](tree-semilattice.png)
+![Tree and semilattice, based on Alexander. Source: A City is Not a Tree, p 6., 7.](tree-semilattice.png)  
+*Tree and semilattice, based on Alexander. Source: A City is Not a Tree, p 6., 7.*
 
 ## Recursive definitions
 
