@@ -36,7 +36,8 @@ These models were featured in the [presentation by Martin Schwarz](https://caa.c
 
 ❅❅❅
 
-[![Open interactive model in ShapeDiver](shapediver.png)](https://www.shapediver.com/app/m/u-xi-11-a-shapediver-2){:target="_blank"}
+[![Open interactive model in ShapeDiver](shapediver.png)](https://www.shapediver.com/app/m/u-xi-11-a-shapediver-2){:target="_blank"}  
+[Open interactive model in ShapeDiver](https://www.shapediver.com/app/m/u-xi-11-a-shapediver-2){:target="_blank"}
 
 # Altar crowns of St. Martin's church, Spišska Kapitula, Slovakia
 
