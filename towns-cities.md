@@ -18,6 +18,8 @@ Their method is similar to that outlined by Christopher Alexander and his collea
 
 In the course of my research, two – related – case studies were created to model and test the ideas described briefly above, and in detail in my [related article](https://www.researchgate.net/publication/385077914_The_Miskolc_Method_Modelling_the_Evolution_of_a_Natural_City_with_Recursive_Algorithms_Using_Simulated_Morphogenesis).
 
+These models are based on the three main concepts of Simulated Morphogenesis: [semilattice structure, recursion, and open-endedness](https://zbereczki.github.io/simulated-morphogenesis/theoretical-considerations/).
+
 # Case study 1: Simulated Morphogenesis of a generic Central European town
 
 For this experiment – besides the principles of the Miskolc Workshop – the main inspirations were the simulation presented in Alexander's book [A Vision of a Living World](http://www.natureoforder.com/summarybk3.htm) (p. 360), and Hillier and Hanson's ideas about how a spatial structure can be created without agency ([The Social Logic of Space](https://www.cambridge.org/core/books/social-logic-of-space/6B0A078C79A74F0CC615ACD8B250A985), p. 36).
