@@ -84,7 +84,7 @@ Further details about this project are available in the related article and on t
 
 ![Recursive stages animated](81-felul.gif)
 
-![Recursive stages animated](images/81-persp.gif)  
+![Recursive stages animated](81-persp.gif)  
 *Recursive stages animated*
 
 # Related articles
