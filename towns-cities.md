@@ -40,6 +40,20 @@ This case study attempts to adapt the algorithm to a specific location. It is im
 ![The five increment of the simulated organic growth, 3D view](hangmans-hill-view.gif)  
 *The five increment of the simulated organic growth, 3D view*
 
-# Related article
+# Earlier stage
+
+An earlier version of this project was introduced at the [13th International Space Syntax Symposium](https://www.hvl.no/en/research/conference/13sss/) in Bergen. Here, the urban block was the main unit.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <iframe src="https://www.youtube.com/embed/ITfXszfLztE"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
+# Related articles
 
 [The Miskolc Method: Modelling the Evolution of a Natural City with Recursive Algorithms Using Simulated Morphogenesis](https://www.researchgate.net/publication/385077914_The_Miskolc_Method_Modelling_the_Evolution_of_a_Natural_City_with_Recursive_Algorithms_Using_Simulated_Morphogenesis)
+
+[The procedural turn: artificial morphogenesis in urban design](https://www.researchgate.net/publication/362888816_The_procedural_turn_artificial_morphogenesis_in_urban_design)
+

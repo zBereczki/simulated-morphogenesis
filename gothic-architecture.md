@@ -66,4 +66,29 @@ The models shown here are based on the sacrament house of St. Elizabeth’s Chur
 </div>
 
 ![Changing the number of corners as input parameter](Kosice-sacrament-house.gif)  
-Changing the number of corners as input parameter
+*Changing the number of corners as input parameter*
+
+# Recursive definition in action: complexity as a function of size
+
+Using recursion, a single pinnacle-generating algorithm can be used to generate large, complex Gothic towers. In the model presented here, the complexity of the structure is a function of its size. 
+
+Further details about this project are available in the related article and on the related site:
+
+- [Generative interpretations of late gothic architectural forms](https://www.researchgate.net/publication/343851914_Generative_interpretations_of_late_gothic_architectural_forms)
+- [Generative Gothic](https://zbereczki.github.io/generative-gothic/)
+
+![The first four stages animated](4-felul.gif)
+
+![The first four stages animated](4-persp.gif)  
+*The first four stages animated*
+
+![Recursive stages animated](81-felul.gif)
+
+![Recursive stages animated](images/81-persp.gif)  
+*Recursive stages animated*
+
+# Related articles
+
+[The Procedural Nature of Gothic Architecture and Microarchitecture](https://www.researchgate.net/publication/389574843_The_Procedural_Nature_of_Gothic_Architecture_and_Microarchitecture)
+
+[Generative interpretations of late gothic architectural forms](https://www.researchgate.net/publication/343851914_Generative_interpretations_of_late_gothic_architectural_forms)
